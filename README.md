@@ -15,11 +15,11 @@ To use the Event Entry Counter, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/event-entry-counter.git
+    git clone https://github.com/yourusername/party-attendants-counter.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
-    cd event-entry-counter
+    cd party-attendants-counter
     ```
 3. **Open `index.html` in a Web Browser**:
     Open the `index.html` file in your preferred web browser to use the application.
