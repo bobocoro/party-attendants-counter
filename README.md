@@ -6,8 +6,6 @@ A simple web application to track the number of people entering an event. The ap
 Increase Button: Increments the count each time a person enters the event.
 Save Button: Logs the current count of people in the event.
 Log Display: Displays the log of saved counts.
-Installation
-To use the Event Entry Counter, follow these steps:
 
 ## Installation
 
